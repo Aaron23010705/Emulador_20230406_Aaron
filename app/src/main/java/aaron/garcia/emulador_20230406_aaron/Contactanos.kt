@@ -37,7 +37,6 @@ class Contactanos : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_contactanos, container, false)
 
         val root = inflater.inflate(R.layout.fragment_contactanos, container, false)
 
